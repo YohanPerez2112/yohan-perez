@@ -1,0 +1,1 @@
+# cree un nuevo archivo llamada optimizado.html en la cual cree un pagina con el contenido del index.html pero teniendo en cuanta la semantica usando header , main , nav , section y footer y agrege algunas cosas que no tiene el index.html 
